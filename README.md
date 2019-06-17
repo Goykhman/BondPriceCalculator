@@ -1,4 +1,4 @@
-# BondPriceCalculator
+# Bond Price Calculator
 Fast calculator of simple and callable bonds prices
 
 There are T periods of discrete time, counting the current period t = 0, for which we wish to calculate the values of coupons.
